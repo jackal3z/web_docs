@@ -1,6 +1,8 @@
-学习笔记：Git 与 Web 开发
+<p align="center">学习笔记：Git 与 Web 开发</p>
 
-[Git](./git.md)
+<p align="center"><a href="./git.md">Git</a></p>
+
+---
 
 **项目概述**
 - **目的**: 记录我学习 Git 与现代 Web 开发（前端与后端）过程中重要的概念、命令、实践与遇到的问题，作为可复用的学习手册与备忘。
